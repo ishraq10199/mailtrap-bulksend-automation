@@ -1,0 +1,5 @@
+.env
+logs/
+plaintext.txt
+emails.txt
+template.html
